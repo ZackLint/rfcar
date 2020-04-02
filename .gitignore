@@ -1,0 +1,21 @@
+.DS_Store
+*.acn
+*.acr
+*.alg
+*.aux
+*.bbl
+*.blg
+*.ist
+*.lof
+*.log
+*.lot
+*.symbols*
+*.toc
+*.upa
+*.glo
+*.lol
+*.org
+*.gz
+# ignore the designated subfolders
+auto/
+
